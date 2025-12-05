@@ -1,0 +1,11 @@
+function printName(){
+    
+    console.log(" ****");
+        console.log("*");
+    console.log(" ****");
+            console.log("     *");
+                console.log(" ****");
+
+            
+}
+printName()
