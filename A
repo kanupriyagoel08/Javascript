@@ -1,0 +1,18 @@
+function printName(){
+    //top row
+    console.log("  *");
+    
+    for(let i=1; i<=2; i++){
+        console.log(" * *");
+    }
+    console.log(" ****");
+    for(let i=1; i<=2; i++){
+        console.log(" *  *");
+    }
+    for(let i=1; i<=2; i++){
+        console.log(" *  *");
+    }
+    
+
+} 
+printName()
