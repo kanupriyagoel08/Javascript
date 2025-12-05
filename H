@@ -1,0 +1,15 @@
+function printName(){
+    //top row
+    for(let i=1; i<=2; i++){
+    console.log("*  *");
+    }
+    
+    //middle row 
+        console.log("****");
+    
+    //bottom row
+    for(let i=1; i<=2; i++){
+        console.log("*  *")
+    }
+} 
+printName()
